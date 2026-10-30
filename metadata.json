@@ -1,0 +1,6 @@
+{
+  "name": "CommitmentOS_V2",
+  "description": "Core intelligence engine for analyzing call transcripts, detecting verbal commitments, and extracting structured tasks for Google Calendar and Google Keep.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
